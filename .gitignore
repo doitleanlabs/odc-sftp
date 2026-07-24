@@ -1,1 +1,9 @@
+# Visual Studio
 .vs/
+
+# Build output
+[Bb]in/
+[Oo]bj/
+
+# Packaging output
+Dist/

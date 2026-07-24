@@ -1,6 +1,0 @@
-C:\Repo\odc-sftp\DoiTLean.SFTP\bin\Release\net6.0\linux-x64\publish\DoiTLean.SFTP.dll
-C:\Repo\odc-sftp\DoiTLean.SFTP\bin\Release\net6.0\linux-x64\publish\DoiTLean.SFTP.deps.json
-C:\Repo\odc-sftp\DoiTLean.SFTP\bin\Release\net6.0\linux-x64\publish\DoiTLean.SFTP.pdb
-C:\Repo\odc-sftp\DoiTLean.SFTP\bin\Release\net6.0\linux-x64\publish\OutSystems.ExternalLibraries.SDK.dll
-C:\Repo\odc-sftp\DoiTLean.SFTP\bin\Release\net6.0\linux-x64\publish\Renci.SshNet.dll
-C:\Repo\odc-sftp\DoiTLean.SFTP\bin\Release\net6.0\linux-x64\publish\SshNet.Security.Cryptography.dll
